@@ -8,7 +8,7 @@
 
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: #fff1e7;
+  background-color: #000ba9;
   color: rgb(0, 0, 0);
   line-height: 1.6;
 }
@@ -87,8 +87,8 @@ header {
 
 .rating li:hover,
 .num-display {
-  background: #ff6a95;
-  color: #fff;
+  background: #fee900;
+  color: rgb(67, 67, 67);
 }
 
 [type='radio'] {

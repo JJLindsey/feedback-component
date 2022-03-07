@@ -2,7 +2,7 @@ import PropTypes from 'prop-types'
 
 function Header({text}) {
     const headerStyles = {
-        backgroundColor:'darkblue',
+        backgroundColor:'#000545',
         color:'#ffffa9' 
     }
 
