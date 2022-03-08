@@ -104,6 +104,7 @@ header {
   display: flex;
   flex-direction: row;
   border: 1px solid #ccc;
+  background-color: white;
   padding: 8px 10px;
   border-radius: 8px;
 }
@@ -156,7 +157,7 @@ input:focus {
 }
 
 .btn-primary {
-  background-color: #202142;
+  background-color: #444100;
 }
 
 .btn-secondary {
